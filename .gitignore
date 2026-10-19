@@ -105,3 +105,11 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Proje özel: Unity çökme sonrası otomatik kurtarma sahneleri ve IDE çözümü
+/[Aa]ssets/_Recovery/
+/[Aa]ssets/_Recovery.meta
+*.slnx
+# Meta Immersive Debugger yerel erişim token'ı ve LAN IP içerir
+/[Aa]ssets/Resources/DevAgentSettings.asset
+/[Aa]ssets/Resources/DevAgentSettings.asset.meta
