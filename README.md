@@ -30,7 +30,7 @@ The game starts in a floating world-space menu. You play the **Beginner Course**
 | :---: | :---: |
 | <img src="Docs/images/course-1-overview.png" alt="Beginner course overview" width="420"> | <img src="Docs/images/course-2-overview.png" alt="Challenge course overview" width="420"> |
 | **Main menu (world-space UI)** | **Lining up a putt** |
-| <img src="Docs/images/main-menu.png" alt="Main menu" width="420"> | <img src="Docs/images/course-2-player-view.png" alt="Player view on the challenge course" width="420"> |
+| <img src="Docs/images/main-menu.png" alt="Main menu" width="420"> | <img src="Docs/images/course-2-putt.png" alt="Putter lined up behind the ball on the challenge course" width="420"> |
 
 ## Features
 
@@ -82,7 +82,7 @@ git clone https://github.com/Spark065/XR-deneme-2026-08-07_14-33-03.git
 - Unity 6 · Universal Render Pipeline 17
 - Meta XR SDK 205 (Interaction SDK, Building Blocks) · OpenXR · XR Interaction Toolkit
 - Unity Input System · uGUI · Unity Test Framework
-- Course pieces and flags: [Kenney Minigolf Kit](https://kenney.nl/assets/minigolf-kit) (CC0)
+- Course pieces, flags and putter: [Kenney Minigolf Kit](https://kenney.nl/assets/minigolf-kit) (CC0)
 
 ---
 

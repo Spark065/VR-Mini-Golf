@@ -135,10 +135,6 @@ Packages/packages-lock.json linguist-generated
 *.tiff                  lfs
 *.webp                  lfs
 
-# Small Unity tutorial icon already stored as a regular Git blob in the base
-# commit. Keep it out of LFS so the existing history and clean filter agree.
-Assets/TutorialInfo/Icons/URP.png -lfs -filter -diff -merge -text
-
 # README screenshots: keep as regular Git blobs so GitHub always renders them.
 Docs/images/*.png -lfs -filter -diff -merge -text
 
