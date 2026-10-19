@@ -139,6 +139,9 @@ Packages/packages-lock.json linguist-generated
 # commit. Keep it out of LFS so the existing history and clean filter agree.
 Assets/TutorialInfo/Icons/URP.png -lfs -filter -diff -merge -text
 
+# README screenshots: keep as regular Git blobs so GitHub always renders them.
+Docs/images/*.png -lfs -filter -diff -merge -text
+
 # Compressed Archive
 *.7z                    lfs
 *.bz2                   lfs
