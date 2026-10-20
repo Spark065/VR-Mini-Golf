@@ -68,7 +68,7 @@ The game starts in a floating world-space menu. You play the **Beginner Course**
 
 ```bash
 git lfs install
-git clone https://github.com/Spark065/XR-deneme-2026-08-07_14-33-03.git
+git clone https://github.com/Spark065/VR-Mini-Golf.git
 ```
 
 1. Open the folder in Unity Hub.
